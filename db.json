@@ -1,32 +1,30 @@
-{
-  "amigos":[
-    {
-      "nombre"  :"Daniela",
-      "hobby"   :"Pintar",
-      "edad"    : 22,
-      "telefono":"722123456",
-      "dire"    :"Zinacantepec",
-    },
-    {
-      "nombre"  :"Opaque",
-      "hobby"   :"Jugar",
-      "edad"    : 21,
-      "telefono":"722456789",
-      "dire"    :"Metepec",
-    },
-    {
-      "nombre"  :"Hector",
-      "hobby"   :"Jugar",
-      "edad"    : 21,
-      "telefono":"722345678",
-      "dire"    :"Tecnologico",
-    },
-    {
-      "nombre"  :"Raul",
-      "hobby"   :"Futbol",
-      "edad"    : 21,
-      "telefono":"7225184789",
-      "dire"    :"Toluca",
-    }
-  ]
-}
+[
+  {
+    "nombre"  :"Daniela",
+    "hobby"   :"Pintar",
+    "edad"    : 22,
+    "telefono":"722123456",
+    "dire"    :"Zinacantepec",
+  },
+  {
+    "nombre"  :"Opaque",
+    "hobby"   :"Jugar",
+    "edad"    : 21,
+    "telefono":"722456789",
+    "dire"    :"Metepec",
+  },
+  {
+    "nombre"  :"Hector",
+    "hobby"   :"Jugar",
+    "edad"    : 21,
+    "telefono":"722345678",
+    "dire"    :"Tecnologico",
+  },
+  {
+    "nombre"  :"Raul",
+    "hobby"   :"Futbol",
+    "edad"    : 21,
+    "telefono":"7225184789",
+    "dire"    :"Toluca",
+  }
+]
