@@ -21,6 +21,27 @@
     "dire"    :"Tecnologico"
   },
   {
+    "nombre"  :"Diego",
+    "hobby"   :"Box",
+    "edad"    : 21,
+    "telefono":"722345678",
+    "dire"    :"Casa Blanca"
+  },
+  {
+    "nombre"  :"Fredy",
+    "hobby"   :"Pescar",
+    "edad"    : 21,
+    "telefono":"722345678",
+    "dire"    :"Torres"
+  },
+  {
+    "nombre"  :"Manuel",
+    "hobby"   :"Futbol",
+    "edad"    : 21,
+    "telefono":"722345678",
+    "dire"    :"Casa Blanca"
+  },
+  {
     "nombre"  :"Raul",
     "hobby"   :"Futbol",
     "edad"    : 21,
