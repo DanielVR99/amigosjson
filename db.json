@@ -1,34 +1,32 @@
 {
-  "posts": [
+  "amigos":[
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "nombre"  :"Daniela",
+      "hobby"   :"Pintar",
+      "edad"    : 22,
+      "telefono":"722123456",
+      "dire"    :"Zinacantepec",
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "nombre"  :"Opaque",
+      "hobby"   :"Jugar",
+      "edad"    : 21,
+      "telefono":"722456789",
+      "dire"    :"Metepec",
     },
     {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "nombre"  :"Hector",
+      "hobby"   :"Jugar",
+      "edad"    : 21,
+      "telefono":"722345678",
+      "dire"    :"Tecnologico",
     },
     {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+      "nombre"  :"Raul",
+      "hobby"   :"Futbol",
+      "edad"    : 21,
+      "telefono":"7225184789",
+      "dire"    :"Toluca",
+    },
+  ]
 }
